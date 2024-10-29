@@ -1,0 +1,19 @@
+.social-icon > a {
+    padding: 3px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+ul.menu li.social-icon {
+    display: inline-block;
+    list-style-type: none;
+    background: inherit;
+    width: auto;
+    margin-right: 10px;
+}
+ul.menu li.social-icon a:hover {
+ color: inherit;
+}
+ul.menu li.social-icon:last-child {
+    margin-right: 0;
+}
